@@ -28,7 +28,7 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SeuUsuarioGitHub/SeuUsuarioGitHub/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Tu3-z/Tu3-z/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
