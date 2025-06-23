@@ -2,7 +2,7 @@ name: Snake Commit Animation 🐍
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # roda todo dia à meia-noite UTC
+    - cron: "0 0 * * *"  
   workflow_dispatch:
 
 jobs:
