@@ -21,8 +21,8 @@
 ---
 
 <div align="center">
-  <img height="155em" src="https://github-readme-stats.vercel.app/api?username=Tu3-z&show_icons=true&theme=dark" />
-  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tu3-z&layout=compact&theme=dark" />
+  <img height="155em" src="https://github-readme-stats.vercel.app/api?username=Tu3-z&show_icons=true&theme=dracula" />
+  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tu3-z&layout=compact&theme=dracula" />
 </div>
 
 ---
