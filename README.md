@@ -1,7 +1,7 @@
-<h1 align="center">Olá! 👋 Eu sou o Arthur Morgan</h1>
+<h1 align="center">Olá! 👋 Eu sou o Arthur</h1>
 
 <p align="center">
-  Desenvolvedor Full Stack apaixonado por transformar ideias em soluções funcionais 🚀
+  Desenvolvedor Full-Stack criativo
 </p>
 
 ---
@@ -10,7 +10,6 @@
 
 - 🎯 Sempre focado em escrever código limpo, eficiente e reutilizável
 - 🛠️ Amante de backend com um pé no frontend
-- 💬 Gosto de aprender e compartilhar conhecimento
 - 💡 Buscando sempre evoluir com boas práticas e novas tecnologias
 
 ---
@@ -49,7 +48,7 @@
 
 ## 🌐 Onde me encontrar
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/seu-perfil/)
+- 💼 [LinkedIn]([https://www.linkedin.com/in/seu-perfil/](https://www.linkedin.com/in/arthur-gon%C3%A7alves-andrade-580306284/))
 - 📁 Repositórios mais legais abaixo 👇
 
 ---
