@@ -7,6 +7,15 @@
 Sou um desenvolvedor Full Stack que gosta de criar experiências digitais que funcionam bem, parecem bem e contam uma história.
 Minha estética é limpa, neutra, com um toque artístico — e minha lógica é objetiva.
 
+# 📊 Minhas Estatísticas
+<div align="center">
+  
+# 🔥 GitHub Stats
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tu3-z&show_icons=true&theme=graywhite&icon_color=000&title_color=000&text_color=000" />
+
+# 📈 Linguagens Mais Usadas
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tu3-z&layout=compact&theme=graywhite&title_color=000&text_color=000" /> </div>
+
 # Gosto de unir:
 🎨 Design thinking → ideias que fazem sentido
 
@@ -39,18 +48,4 @@ Outros
 Não sigo um único padrão estético — trabalho confortavelmente com qualquer estilo, do mais minimalista ao mais carregado, do clássico ao experimental.
 Cada projeto pede uma identidade própria, e me adapto a isso.
 
-# 📂 Projetos em Destaque
-
-# 🟣 Octa Agência – Site de Contato
-
-Site moderno para uma agência jovem de publicidade.
-Fui responsável por toda a experiência, do design thinking até o desenvolvimento completo.
-
-🔗 Link do repositório: (adicione aqui)
-
-# 🖤 Kingsmartphones – Loja de iPhone
-
-Landing page elegante com foco em apresentação, credibilidade e canal de contato.
-Criação de layout + desenvolvimento em React.
-
-🔗 Link do repositório: (adicione aqui)
+# 📂 Projetos em Destaque Abaixo
