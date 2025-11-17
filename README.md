@@ -3,9 +3,12 @@
 <p align="center"> <img src="https://github.com/Tu3-z/Tu3-z/blob/main/bannerGIT.png?raw=true" alt="Banner estilizado do perfil" width="100%" /> </p>
 
 # ✨ Sobre mim
+Sou um desenvolvedor Full Stack com forte domínio em UI/UX, criando interfaces claras, funcionais e consistentes para qualquer estilo visual.
+Trabalho no frontend e backend, e tenho experiência com bancos de dados relacionais, especialmente PostgreSQL.
 
-Sou um desenvolvedor Full Stack que gosta de criar experiências digitais que funcionam bem, parecem bem e contam uma história.
-Minha estética é limpa, neutra, com um toque artístico — e minha lógica é objetiva.
+Desenvolvi também uma API RESTful para gerenciamento de biblioteca, incluindo integração completa com banco de dados, regras de negócio, autenticação e um site que consumia essa API.
+
+Busco sempre unir lógica objetiva com boas práticas de design e experiência do usuário.
 
 # 📊 Minhas Estatísticas
 <div align="center">
