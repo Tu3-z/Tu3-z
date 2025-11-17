@@ -1,40 +1,46 @@
-<h1 align="center">Olá! 👋 Eu sou o Arthur</h1>
+# 🌫️ Arthur Andrade
+Desenvolvedor Full Stack — Criatividade, Tecnologia e Estética em Harmonia
+<p align="center"> <!-- Substitua pela URL do seu banner futuramente --> <img src="BANNER-AQUI" alt="Banner estilizado do perfil" width="100%" /> </p>
 
-<p align="center">
-  Desenvolvedor Full-Stack criativo
-</p>
+# ✨ Sobre mim
+Sou um desenvolvedor Full Stack que gosta de criar experiências digitais que funcionam bem, parecem bem e contam uma história.
+Minha estética é limpa, neutra, com um toque artístico — e minha lógica é objetiva.
 
-## 🛠️ Tecnologias
+# Gosto de unir:
+🎨 Design thinking → ideias que fazem sentido
+⚙️ Engenharia → código limpo e escalável
+🌐 Experiência → interfaces bonitas, fluidas e modernas
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50" />
-</p>
-
----
-
+# 🛠️ Tecnologias que me movem
 <div align="center">
-  <img height="155em" src="https://github-readme-stats.vercel.app/api?username=Tu3-z&show_icons=true&theme=dracula" />
-  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tu3-z&layout=compact&theme=dracula" />
-</div>
+Frontend
+<p> <img src="https://skillicons.dev/icons?i=react,html,css,js,ts,tailwind" /> </p>
+Backend
+<p> <img src="https://skillicons.dev/icons?i=nodejs,java,spring" /> </p>
+Mobile
+<p> <img src="https://skillicons.dev/icons?i=swift" /> </p>
+Banco de Dados
+<p> <img src="https://skillicons.dev/icons?i=postgresql,mysql" /> </p>
+Outros
+<p> <img src="https://skillicons.dev/icons?i=git,github,figma" /> </p> </div>
 
----
+# 🎨 Minha estética
+🎯 Prioridade: UI/UX de qualidade
+❤️ Estilo visual? Sou flexível.
+Não sigo um único padrão estético — trabalho confortavelmente com qualquer estilo, do mais minimalista ao mais carregado, do clássico ao experimental.
+Cada projeto pede uma identidade própria, e me adapto a isso.
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Tu3-z/Tu3-z/output/github-contribution-grid-snake.svg" />
-</p>
+# 📂 Projetos em Destaque
+🟣 Octa Agência – Site de Contato
 
----
+Site moderno para uma agência jovem de publicidade.
+Fui responsável por toda a experiência, do design thinking até o desenvolvimento completo.
 
-- 📁 Repositórios mais legais abaixo 👇
+🔗 Link do repositório: (adicione aqui)
 
----
+# 🖤 Kingsmartphones – Loja de iPhone
 
-<p align="center">✨ Obrigado por visitar meu perfil! ✨</p>
+Landing page elegante com foco em apresentação, credibilidade e canal de contato.
+Criação de layout + desenvolvimento em React.
+
+🔗 Link do repositório: (adicione aqui)
