@@ -1,6 +1,6 @@
 # 🌫️ Arthur Andrade
 # Desenvolvedor Full Stack — Criatividade, Tecnologia e Estética em Harmonia
-<p align="center"> <img src="https://ibb.co/BKvmKqGw" alt="Banner estilizado do perfil" width="100%" /> </p>
+<p align="center"> <img src="https://i.ibb.co/rfqgf43v/banner-GIT.png" alt="banner-GIT" border="0">
 
 # ✨ Sobre mim
 Sou um desenvolvedor Full Stack com forte domínio em UI/UX, criando interfaces claras, funcionais e consistentes para qualquer estilo visual.
