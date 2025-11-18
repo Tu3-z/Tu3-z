@@ -11,7 +11,7 @@ Desenvolvi também uma API RESTful para gerenciamento de biblioteca, incluindo i
 Busco sempre unir lógica objetiva com boas práticas de design e experiência do usuário.
 
 # 📊 Minhas Estatísticas
-<div align="center">
+<div align="left">
   
 # 🔥 GitHub Stats
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tu3-z&show_icons=true&theme=graywhite&icon_color=000&title_color=000&text_color=000" />
